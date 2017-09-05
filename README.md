@@ -3,24 +3,16 @@
 ## Tesseract Introduction
 -------------
 **Tesseract is the advanced server software based on PocketMine-MP and Genisys! <br>
-Tesseract supports only the world type of Anvil or PMAnvil. (MCRegion support is [deprecated](https://www.google.com/search?q=deprecated&oq=deprecated&aqs=chrome.0.69i59j69i61.1457j0j7&sourceid=chrome&ie=UTF-8)) <br>
-Tesseract supports packet and event debug system (for plugin developers)**
-
-## Information Title
-**TEXTURES PACKS 1.0.4 DO NOT DISPLAY THE TITLES! PLEASE REMOVE YOUR TEXTURES PACK 1.0.4 TO HAVE THE TITLES ON YOUR SERVERS! :)** <br>
+PocketMine plugins will not work on Tesseract, we aim to differ the API from PocketMine.**
 
 ## Notice
 
-**Tesseract is supported to Minecraft:PE 1.0.5 (PE & Win10) <br>
-Report any issues and we will try to fix them for you.**  <br>
+**Tesseract only supports 1.0.5 at the moment, support for 1.1 will come out soon. <br>
 
 ## Builds
 
 __Travis-CI Build:__<br>
  [![Travis-CI](https://travis-ci.org/TesseractTeam/Tesseract.svg?branch=master)](https://travis-ci.org/TesseractTeam/Tesseract)<br>
- __Jenkins Build:__<br>
-[![Jenkins](https://travis-ci.org/TesseractTeam/Tesseract.svg?branch=master)](https://jenkins.imgcl.co/job/Tesseract/)
-
 ## Quick Links (Instead of scrolling, click these!)
 
 __[Installation](#installation)__ <br>
